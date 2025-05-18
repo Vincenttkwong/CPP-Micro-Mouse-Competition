@@ -37,37 +37,37 @@ The robot was built with the following components:
 
 ## Software Features
 
-### ✅ Basic Functions
+### Basic Functions
 
 - Teleoperated movement (forward, 90° left/right turns)
 - Wall detection on all three sides
 - Real-time position tracking: `(row, col, heading)`
 
-### 🔁 Closed-Loop Control
+### Closed-Loop Control
 
 - Odometry and IMU-based motion correction
 - Accurate execution of motion plans (e.g. `00SFFLR`)
 
-### 🗺️ Maze Mapping
+### Maze Mapping
 
 - Top-down camera image processing using computer vision
 - Automatic detection of maze walls
 - ASCII-based maze map generation
 
-### 🧭 Path Planning & Solving
+### Path Planning & Solving
 
 - Shortest path computation to target cell.
 - Used DFS to search graph for the target cell
 - Used BFS to find the shortest path to the target cell.
 - Fully autonomous maze navigation and solving
 
-## 🏁 Competition Results
+## Competition Results
 
 - Successfully mapped the maze using top-down vision
 - Completed the maze in one of the fastest times
 - Placed **2nd in speed** among all student teams
 
-## 👨‍💻 Team Members
+## Team Members
 
 - Vincent Wong
 - Jack Adams
