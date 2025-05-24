@@ -67,6 +67,18 @@ The robot was built with the following components:
 - Completed the maze in one of the fastest times
 - Placed **2nd in speed** among all student teams
 
+### Our Robot's Starting Position
+
+![Our Robot in the Maze](README/robotInMaze.png)
+
+### Our Robot Completing the Maze
+
+![Our Robot Completing the Maze](README/robotCompletingMaze.png)
+
+### 🎥 Watch the Robot in Action
+
+You can [download the video of the robot completing the maze](README/robotMazeCompletion.mp4) to see it in motion.
+
 ## Team Members
 
 - Vincent Wong
@@ -75,3 +87,5 @@ The robot was built with the following components:
 - Ben Crabtree
 
 Each member contributed to hardware design, software implementation, testing, and debugging.
+
+Special Thanks to the staff and tutors of MTRN3100 who guided us and helped us along the way.
